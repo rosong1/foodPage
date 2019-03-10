@@ -5,15 +5,10 @@
       window.addEventListener("resize", function () {
           perRemPx = document.getElementsByTagName("html")[0].clientWidth / 7.5;
           document.getElementsByTagName("html")[0].style.fontSize = perRemPx + "px";
+          alert("perRemPx")
       });
       document.getElementsByTagName("html")[0].style.fontSize = perRemPx + "px";
 
-      if ('addEventListener' in document) {
-        document.addEventListener('DOMContentLoaded', function() {
-          // TODO: 加入FastClick
-          // FastClick.attach(document.body);
-        }, false);
-      }
       if(!window.Promise) {
         document.writeln('<script src="https://as.alipayobjects.com/g/component/es6-promise/3.2.2/es6-promise.min.js"'+'>'+'<'+'/'+'script>');
       }</script><script>window.routerBase = "https://rosong1.github.io/foodPage/";
