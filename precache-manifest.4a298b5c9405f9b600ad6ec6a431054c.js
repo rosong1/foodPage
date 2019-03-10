@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "a957fcfa082b99401fd286f6f407f50a",
-    "url": "https://rosong1.github.io/foodPage/icons/mstile-150x150.png"
+    "revision": "c3af067ca4f0ebc0cbb20c78dace5e08",
+    "url": "https://rosong1.github.io/foodPage/icons/android-chrome-192x192.png"
   },
   {
     "revision": "8b44b4c4593a6f369070",
@@ -16,12 +16,16 @@ self.__precacheManifest = [
     "url": "https://rosong1.github.io/foodPage/pwacompat.min.js"
   },
   {
-    "revision": "9d7f1b81f0bab568ef6336be4b0da809",
+    "revision": "7ad526232028257f595fa11db8ffe226",
     "url": "https://rosong1.github.io/foodPage/manifest.json"
   },
   {
     "revision": "7c47980d22768d7f605fa3f0a9cadcf2",
     "url": "https://rosong1.github.io/foodPage/index.html"
+  },
+  {
+    "revision": "a957fcfa082b99401fd286f6f407f50a",
+    "url": "https://rosong1.github.io/foodPage/icons/mstile-150x150.png"
   },
   {
     "revision": "1bb884afb41b7047e2785622311c8182",
@@ -38,9 +42,5 @@ self.__precacheManifest = [
   {
     "revision": "c504ad31c56a9f458b53d336bda8fd0a",
     "url": "https://rosong1.github.io/foodPage/icons/android-chrome-512x512.png"
-  },
-  {
-    "revision": "c3af067ca4f0ebc0cbb20c78dace5e08",
-    "url": "https://rosong1.github.io/foodPage/icons/android-chrome-192x192.png"
   }
 ];
