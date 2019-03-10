@@ -1,4 +1,4 @@
-importScripts("https://rosong1.github.io/foodPage/precache-manifest.ef8d829c585dc8495668b454abd5e6a5.js", "https://rosong1.github.io/foodPage/workbox-v3.6.3/workbox-sw.js");
+importScripts("https://rosong1.github.io/foodPage/precache-manifest.c07431926308972e642501216aaeed22.js", "https://rosong1.github.io/foodPage/workbox-v3.6.3/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "https://rosong1.github.io/foodPage/workbox-v3.6.3"});
 /* globals workbox */
 /* eslint-disable no-restricted-globals */
@@ -47,7 +47,6 @@ workbox.core.setCacheNameDetails({
     workbox.strategies.networkFirst()
   );
  
-//   workbox.routing.registerRoute(/\/color.less/, workbox.strategies.networkFirst());
   
   /**
    * Response to client after skipping waiting with MessageChannel
