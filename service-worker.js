@@ -39,19 +39,19 @@ workbox.core.setCacheNameDetails({
    * Handle third party requests
    */
   workbox.routing.registerRoute(
-    /^https:\/\/gw.alipayobjects.com\//,
+    /^https:\/\/as.alipayobjects.com\//,
     workbox.strategies.networkFirst()
   );
 workbox.routing.registerRoute(
     /^https:\/\/rosong1.github.io\//,
     workbox.strategies.networkFirst()
   );
-  workbox.routing.registerRoute(
-    /^https:\/\/rosong1.github.io\/foodPage\//,
-    workbox.strategies.networkFirst()
-  );
+//   workbox.routing.registerRoute(
+//     /^https:\/\/rosong1.github.io\/foodPage\//,
+//     workbox.strategies.networkFirst()
+//   );
  
-  workbox.routing.registerRoute(/\/color.less/, workbox.strategies.networkFirst());
+//   workbox.routing.registerRoute(/\/color.less/, workbox.strategies.networkFirst());
   
   /**
    * Response to client after skipping waiting with MessageChannel
