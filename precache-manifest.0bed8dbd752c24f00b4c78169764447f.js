@@ -12,11 +12,11 @@ self.__precacheManifest = [
     "url": "https://rosong1.github.io/foodPage/pwacompat.min.js"
   },
   {
-    "revision": "a2e6f2cba31febe7d17c130f0686bb78",
+    "revision": "ec63b54ca4c318c87a9740de5db74773",
     "url": "https://rosong1.github.io/foodPage/manifest.json"
   },
   {
-    "revision": "e97c3418d6bbd55324ed4e0c02b1e434",
+    "revision": "8fb89a27b1dd38f26cf73be06636fca2",
     "url": "https://rosong1.github.io/foodPage/index.html"
   }
 ];
