@@ -1,4 +1,4 @@
-importScripts("https://rosong1.github.io/foodPage/precache-manifest.212d751c96e6a7b8ccc8d829d287ab52.js", "https://rosong1.github.io/foodPage/workbox-v3.6.3/workbox-sw.js");
+importScripts("https://rosong1.github.io/foodPage/precache-manifest.754300bbf1af253b2017e768b8162a75.js", "https://rosong1.github.io/foodPage/workbox-v3.6.3/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "https://rosong1.github.io/foodPage/workbox-v3.6.3"});
 /* globals workbox */
 /* eslint-disable no-restricted-globals */
@@ -42,14 +42,10 @@ workbox.core.setCacheNameDetails({
     /^https:\/\/as.alipayobjects.com\//,
     workbox.strategies.networkFirst()
   );
-workbox.routing.registerRoute(
-    /^https:\/\/rosong1.github.io\//,
+  workbox.routing.registerRoute(
+    /^https:\/\/rosong1.github.io\/foodPage\//,
     workbox.strategies.networkFirst()
   );
-//   workbox.routing.registerRoute(
-//     /^https:\/\/rosong1.github.io\/foodPage\//,
-//     workbox.strategies.networkFirst()
-//   );
  
 //   workbox.routing.registerRoute(/\/color.less/, workbox.strategies.networkFirst());
   
