@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "https://rosong1.github.io/foodPage/manifest.json"
   },
   {
-    "revision": "ae3e5e380554fd0b3f29f8484774ea29",
+    "revision": "08df8f798faf317b64729e7b1d945f5e",
     "url": "https://rosong1.github.io/foodPage/index.html"
   },
   {
