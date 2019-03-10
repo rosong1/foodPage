@@ -4,11 +4,11 @@ self.__precacheManifest = [
     "url": "https://rosong1.github.io/foodPage/icons/mstile-150x150.png"
   },
   {
-    "revision": "d06d4fb72c0939020f85",
+    "revision": "d62ca2dbb99a8808dc36",
     "url": "https://rosong1.github.io/foodPage/umi.css"
   },
   {
-    "revision": "d06d4fb72c0939020f85",
+    "revision": "d62ca2dbb99a8808dc36",
     "url": "https://rosong1.github.io/foodPage/umi.js"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "https://rosong1.github.io/foodPage/manifest.json"
   },
   {
-    "revision": "e97c3418d6bbd55324ed4e0c02b1e434",
+    "revision": "dbc2d70367f3176ae7cc69c2fc125e0b",
     "url": "https://rosong1.github.io/foodPage/index.html"
   },
   {
