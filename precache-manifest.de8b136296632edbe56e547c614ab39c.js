@@ -4,11 +4,11 @@ self.__precacheManifest = [
     "url": "https://rosong1.github.io/foodPage/icons/apple-touch-icon.png"
   },
   {
-    "revision": "8de7248aa184be3da3d0",
+    "revision": "825c5db28c58c85d656b",
     "url": "https://rosong1.github.io/foodPage/umi.css"
   },
   {
-    "revision": "8de7248aa184be3da3d0",
+    "revision": "825c5db28c58c85d656b",
     "url": "https://rosong1.github.io/foodPage/umi.js"
   },
   {
