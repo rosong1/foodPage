@@ -1,14 +1,14 @@
 self.__precacheManifest = [
   {
-    "revision": "a957fcfa082b99401fd286f6f407f50a",
-    "url": "https://rosong1.github.io/foodPage/icons/mstile-150x150.png"
+    "revision": "1b296332679f81ee413c86e6af1e84d9",
+    "url": "https://rosong1.github.io/foodPage/icons/apple-touch-icon.png"
   },
   {
-    "revision": "825c5db28c58c85d656b",
+    "revision": "c5dad3608f9a17acca57",
     "url": "https://rosong1.github.io/foodPage/umi.css"
   },
   {
-    "revision": "825c5db28c58c85d656b",
+    "revision": "c5dad3608f9a17acca57",
     "url": "https://rosong1.github.io/foodPage/umi.js"
   },
   {
@@ -24,16 +24,16 @@ self.__precacheManifest = [
     "url": "https://rosong1.github.io/foodPage/index.html"
   },
   {
+    "revision": "a957fcfa082b99401fd286f6f407f50a",
+    "url": "https://rosong1.github.io/foodPage/icons/mstile-150x150.png"
+  },
+  {
     "revision": "1bb884afb41b7047e2785622311c8182",
     "url": "https://rosong1.github.io/foodPage/icons/favicon-32x32.png"
   },
   {
     "revision": "5f62e89b6733c74063f60083b279a29f",
     "url": "https://rosong1.github.io/foodPage/icons/favicon-16x16.png"
-  },
-  {
-    "revision": "1b296332679f81ee413c86e6af1e84d9",
-    "url": "https://rosong1.github.io/foodPage/icons/apple-touch-icon.png"
   },
   {
     "revision": "c504ad31c56a9f458b53d336bda8fd0a",
