@@ -4,11 +4,11 @@ self.__precacheManifest = [
     "url": "https://rosong1.github.io/foodPage/icons/mstile-150x150.png"
   },
   {
-    "revision": "9a589b5a9eaa32f6d8d3",
+    "revision": "59bb6f2f319a94df8baf",
     "url": "https://rosong1.github.io/foodPage/umi.css"
   },
   {
-    "revision": "9a589b5a9eaa32f6d8d3",
+    "revision": "59bb6f2f319a94df8baf",
     "url": "https://rosong1.github.io/foodPage/umi.js"
   },
   {
