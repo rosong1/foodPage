@@ -1,14 +1,14 @@
 self.__precacheManifest = [
   {
-    "revision": "1b296332679f81ee413c86e6af1e84d9",
-    "url": "https://rosong1.github.io/foodPage/icons/apple-touch-icon.png"
+    "revision": "c3af067ca4f0ebc0cbb20c78dace5e08",
+    "url": "https://rosong1.github.io/foodPage/icons/android-chrome-192x192.png"
   },
   {
-    "revision": "d9062194d40b6aa743f1",
+    "revision": "0d95df0550ce38dafb07",
     "url": "https://rosong1.github.io/foodPage/umi.css"
   },
   {
-    "revision": "d9062194d40b6aa743f1",
+    "revision": "0d95df0550ce38dafb07",
     "url": "https://rosong1.github.io/foodPage/umi.js"
   },
   {
@@ -36,11 +36,11 @@ self.__precacheManifest = [
     "url": "https://rosong1.github.io/foodPage/icons/favicon-16x16.png"
   },
   {
-    "revision": "c504ad31c56a9f458b53d336bda8fd0a",
-    "url": "https://rosong1.github.io/foodPage/icons/android-chrome-512x512.png"
+    "revision": "1b296332679f81ee413c86e6af1e84d9",
+    "url": "https://rosong1.github.io/foodPage/icons/apple-touch-icon.png"
   },
   {
-    "revision": "c3af067ca4f0ebc0cbb20c78dace5e08",
-    "url": "https://rosong1.github.io/foodPage/icons/android-chrome-192x192.png"
+    "revision": "c504ad31c56a9f458b53d336bda8fd0a",
+    "url": "https://rosong1.github.io/foodPage/icons/android-chrome-512x512.png"
   }
 ];
