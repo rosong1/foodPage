@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "1bb884afb41b7047e2785622311c8182",
-    "url": "https://rosong1.github.io/foodPage/icons/favicon-32x32.png"
+    "revision": "a957fcfa082b99401fd286f6f407f50a",
+    "url": "https://rosong1.github.io/foodPage/icons/mstile-150x150.png"
   },
   {
-    "revision": "14ddb0109efb027ff2ab",
-    "url": "https://rosong1.github.io/foodPage/umi.e6be34a8.css"
+    "revision": "6b376d0044750b64dc91",
+    "url": "https://rosong1.github.io/foodPage/umi.b46237a9.css"
   },
   {
-    "revision": "14ddb0109efb027ff2ab",
-    "url": "https://rosong1.github.io/foodPage/umi.14ddb010.js"
+    "revision": "6b376d0044750b64dc91",
+    "url": "https://rosong1.github.io/foodPage/umi.6b376d00.js"
   },
   {
     "revision": "b19327e3e83ce06113ae14c0d0497903",
@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "https://rosong1.github.io/foodPage/manifest.json"
   },
   {
-    "revision": "138773fb9abb81bf0bda890b9f19f337",
+    "revision": "5ed8bab67c533471c66830fc82f0488d",
     "url": "https://rosong1.github.io/foodPage/index.html"
   },
   {
-    "revision": "a957fcfa082b99401fd286f6f407f50a",
-    "url": "https://rosong1.github.io/foodPage/icons/mstile-150x150.png"
+    "revision": "1bb884afb41b7047e2785622311c8182",
+    "url": "https://rosong1.github.io/foodPage/icons/favicon-32x32.png"
   },
   {
     "revision": "5f62e89b6733c74063f60083b279a29f",
