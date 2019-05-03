@@ -1,4 +1,4 @@
-importScripts("https://rosong1.github.io/foodPage/precache-manifest.dcafbcb7bff231d08aa725c3c9133837.js", "https://rosong1.github.io/foodPage/workbox-v3.6.3/workbox-sw.js");
+importScripts("https://rosong1.github.io/foodPage/precache-manifest.e9cab2385e8894fa887bc940414ff409.js", "https://rosong1.github.io/foodPage/workbox-v3.6.3/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "https://rosong1.github.io/foodPage/workbox-v3.6.3"});
 /* globals workbox */
 /* eslint-disable no-restricted-globals */
