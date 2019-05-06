@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "1b296332679f81ee413c86e6af1e84d9",
-    "url": "https://rosong1.github.io/foodPage/icons/apple-touch-icon.png"
+    "revision": "1bb884afb41b7047e2785622311c8182",
+    "url": "https://rosong1.github.io/foodPage/icons/favicon-32x32.png"
   },
   {
-    "revision": "0787eddb8a49e15ee147",
-    "url": "https://rosong1.github.io/foodPage/umi.062cd7b6.css"
+    "revision": "2f05a1c986a0f917fcf8",
+    "url": "https://rosong1.github.io/foodPage/umi.860bb243.css"
   },
   {
-    "revision": "0787eddb8a49e15ee147",
-    "url": "https://rosong1.github.io/foodPage/umi.0787eddb.js"
+    "revision": "2f05a1c986a0f917fcf8",
+    "url": "https://rosong1.github.io/foodPage/umi.2f05a1c9.js"
   },
   {
     "revision": "b19327e3e83ce06113ae14c0d0497903",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "https://rosong1.github.io/foodPage/manifest.json"
   },
   {
-    "revision": "833da04acc9e63197ac9ee67c79ddc0a",
+    "revision": "c445feb1c44149c8ab64c7dced7272fd",
     "url": "https://rosong1.github.io/foodPage/index.html"
   },
   {
@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "https://rosong1.github.io/foodPage/icons/mstile-150x150.png"
   },
   {
-    "revision": "1bb884afb41b7047e2785622311c8182",
-    "url": "https://rosong1.github.io/foodPage/icons/favicon-32x32.png"
-  },
-  {
     "revision": "5f62e89b6733c74063f60083b279a29f",
     "url": "https://rosong1.github.io/foodPage/icons/favicon-16x16.png"
+  },
+  {
+    "revision": "1b296332679f81ee413c86e6af1e84d9",
+    "url": "https://rosong1.github.io/foodPage/icons/apple-touch-icon.png"
   },
   {
     "revision": "c504ad31c56a9f458b53d336bda8fd0a",
