@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[5],{"2mDl":function(e,a,n){"use strict";n.r(a);var t=n("jxKE");a["default"]={namespace:"home",state:{tabIndex:t["d"].booking},reducers:{setHomeTab(e,a){var n=a.payload.tabIndex;return Object.assign({},e,{tabIndex:n})}},effects:{}}}}]);
